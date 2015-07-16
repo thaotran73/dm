@@ -1,0 +1,8 @@
+Date    : 2010-04-03 23:15:10
+User ID : admin
+Action  : Replace
+Find    : manual
+Replace : ldap
+Table   : mdl_user
+Result  : success
+
